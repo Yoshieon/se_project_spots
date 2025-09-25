@@ -28,7 +28,7 @@ font-style: normal;
 }
 
 .card__like-btn {
-    background-image: url("../images/Like\ Icon.svg");
+    background-image: url("../images/Union.svg");
     width: 23px;
     height: 20px;
     border: none;
@@ -48,5 +48,6 @@ font-style: normal;
     }
     .card__title {
     max-width: 250px;
+    font-size: 16px;
 } 
 }      
