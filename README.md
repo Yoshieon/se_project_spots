@@ -4,16 +4,18 @@ Recording Website here: https://drive.google.com/drive/folders/1ZvYMJTUl0yg5kzTG
 
 ## Description
 
-TODO - Decribe the project and it's functionailites.
+A website project that features button functionalities and interaction links.
 
 ## Tech Stack
 
 - HTML
 - CSS
+- Javascript
 - Responsive Design
 
 ## Deployment
 
 This webpage is deployed to Github Pages
 
-- [Deployment Link] (https://github.com/Yoshieon/se_project_spots)
+- [Deployment Link] (https://yoshieon.github.io/se_project_spots/)
+- [Deployment Link] (https://www.loom.com/share/65d9824329a34ec3b7053d0f7d3292ad)
